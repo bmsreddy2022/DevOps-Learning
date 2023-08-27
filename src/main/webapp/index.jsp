@@ -29,7 +29,7 @@ html
             <p>DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.</p>
             <p>DevOps is closely related to agile software development, which is a way of managing software projects that emphasizes collaboration, feedback, and adaptation. DevOps extends agile principles to the entire software delivery pipeline, from planning to deployment and beyond.</p>
             <p>If you want to learn more about DevOps, you can check out some of the online courses, books, and blogs that are available on the topic. You can also join some of the DevOps communities and forums where you can interact with other learners and experts.</p>
-            <p>For DEV, UAT, AND SIT Environment.</p>
+            <p>This is from Development Branch.</p>
         </div>
     </div>
 </body>
