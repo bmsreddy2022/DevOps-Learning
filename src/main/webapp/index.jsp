@@ -24,7 +24,7 @@ html
 </head>
 <body>
     <div class="container">
-        <img src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8" alt="DevOps" width="300" height="200">
+        <img src="https://seeklogo.com/images/D/devops-logo-CDF1353483-seeklogo.com.png" alt="DevOps" width="300" height="200">
         <div class="content">
             <p>DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.</p>
             <p>DevOps is closely related to agile software development, which is a way of managing software projects that emphasizes collaboration, feedback, and adaptation. DevOps extends agile principles to the entire software delivery pipeline, from planning to deployment and beyond.</p>
