@@ -4,7 +4,7 @@
   <title>DevOps Learning</title>
   <style>
     body {
-      background-image: url("https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_reasons_to_learn_DevOps.jpg");
+      background-image: url("https://www.devstree.com/wp-content/uploads/2021/10/Top-7-DevOps-Tools-For-Web-Development-In-2022.jpg");
       background-size: cover;
     }
     h1 {
@@ -20,7 +20,7 @@
 </head>
 <body>
   <h1>DevOps Learning</h1>
-  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Top_reasons_to_learn_DevOps.jpg" alt="DevOps">
+  <img src="https://www.devstree.com/wp-content/uploads/2021/10/Top-7-DevOps-Tools-For-Web-Development-In-2022.jpg" alt="DevOps">
   <p>Happy to see you DevOps learners!</p>
 </body>
 </html>
